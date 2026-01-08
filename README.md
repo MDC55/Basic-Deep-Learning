@@ -53,5 +53,3 @@ jupyter nbconvert --to script "Basic_Autoencoder.ipynb"
 python "Basic_Autoencoder.py"
 ```
 
-- Example commit message: `docs: add README for Basic_Autoencoder.ipynb`
-
